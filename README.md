@@ -14,12 +14,7 @@ I turn data into insights using Python and SQL, and I'm building hands-on projec
 
 ## 🚀 Projects
 
-| Project | What it does | Tech |
-|---|---|---|
-| [Animal Emotions Detection](link) | CNN that classifies animal emotions (happy, angry, neutral) from images | Python, Deep Learning, CNN |
-| [Bank Management System](link) | Handles accounts, deposits, withdrawals, balance checks and transaction history | SQL, Database |
-| [Gas Leakage Detection and Alert System](link) | Detects gas leaks in real time and sends buzzer, LED and mobile alerts | Embedded Systems, IoT |
-| [Data analysis project: coming soon](link) | [EDA with Pandas and Seaborn] | Python, Pandas, Seaborn |
+
 
 ## 📚 Currently
 
